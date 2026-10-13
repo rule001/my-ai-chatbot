@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+
+# 防止密钥泄露到GitHub！
